@@ -1,5 +1,5 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
-
+![img](https://mail.google.com/mail/u/0/#inbox/FMfcgzGrcsBKffMGwvSbZMrtRndNSwxK?projector=1)
 # 0x00 ALX System Engineering and DevOps
 
 >Learning bash, scripting,
